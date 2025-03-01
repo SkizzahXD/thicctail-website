@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THICCTAIL$ - The Ultimate MemeCoin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #1a1a1a;
+            color: white;
+        }
+        header {
+            background-color: #ff4d4d;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .content {
+            margin: 20px;
+            padding: 20px;
+            background-color: #2b2b2b;
+            border-radius: 10px;
+        }
+        .buy-button {
+            background-color: #ff4d4d;
+            color: white;
+            padding: 15px;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .buy-button:hover {
+            background-color: #ff1a1a;
+        }
+        footer {
+            margin-top: 30px;
+            padding: 10px;
+            background-color: #1a1a1a;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        🚀 Welcome to THICCTAIL$ - The Future of Degenerate Memecoins! 🐿️
+    </header>
+    <div class="content">
+        <h2>What is THICCTAIL$?</h2>
+        <p>The first-ever **THICC WAIFU MEMECOIN** with real utility. Join the movement, stake your nuts, and enter the THICC-Verse! 🌰💦</p>
+        <h2>How to Buy?</h2>
+        <p>1. Install a crypto wallet (MetaMask, Trust Wallet) <br> 2. Fund with BNB/SOL <br> 3. Swap for $THICCTAIL on [Insert DEX Link]</p>
+        <a href="[Insert DEX Link]" class="buy-button">Buy Now 🚀</a>
+        <h2>Join the Community</h2>
+        <p>Stay updated & join our degenerate army!</p>
+        <p><a href="[Insert Twitter Link]">🐦 Twitter</a> | <a href="[Insert Telegram Link]">💬 Telegram</a> | <a href="[Insert Discord Link]">🎭 Discord</a></p>
+    </div>
+    <footer>
+        THICCTAIL$ &copy; 2024. All Rights Reserved. No weak hands allowed. 🚀
+    </footer>
+</body>
+</html>
